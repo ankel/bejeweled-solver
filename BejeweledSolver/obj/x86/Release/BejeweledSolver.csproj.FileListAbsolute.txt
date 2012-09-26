@@ -1,0 +1,9 @@
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\BejeweledSolver\BejeweledSolver\bin\Release\BejeweledSolver.exe
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\BejeweledSolver\BejeweledSolver\bin\Release\BejeweledSolver.pdb
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\BejeweledSolver\BejeweledSolver\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\BejeweledSolver\BejeweledSolver\obj\x86\Release\BejeweledSolver.Form1.resources
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\BejeweledSolver\BejeweledSolver\obj\x86\Release\BejeweledSolver.Properties.Resources.resources
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\BejeweledSolver\BejeweledSolver\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\BejeweledSolver\BejeweledSolver\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\BejeweledSolver\BejeweledSolver\obj\x86\Release\BejeweledSolver.exe
+C:\Users\Houk\Documents\Visual Studio 2010\Projects\BejeweledSolver\BejeweledSolver\obj\x86\Release\BejeweledSolver.pdb

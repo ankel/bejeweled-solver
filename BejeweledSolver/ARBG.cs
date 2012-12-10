@@ -52,6 +52,13 @@ namespace BejeweledSolver
                 return false;
             return true;
         }
+
+        double distanceSquared(ARBG anotherColor)
+        {
+            return Math.Pow(this.A - anotherColor.A, 2) + Math.Pow(this.R - anotherColor.R, 2) +
+                    Math.Pow(this.B - anotherColor.B, 2) + Math.Pow(this.G - anotherColor.G, 2);
+        }
+
         public int ToInt()
         {
             return A << 24 + R << 16 + B << 8 + G;
